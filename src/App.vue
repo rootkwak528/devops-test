@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="테스트 성공" />
+  <HelloWorld msg="김민기 님이시다." />
 </template>
 
 <script>
